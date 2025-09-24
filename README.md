@@ -19,6 +19,11 @@ All datasets (except CelebA) are downloaded automatically if not present.
 
 **Please note!** The configurations were tested in a CUDA environment. Compatibility with other envs is not ensured.
 
+To run all experiments, you can run the appropriate file:
+
+`./reproduce.sh`
+
+
 ## Quick Example
 
 In order to run a quick test run on a small portion of CIFAR100 and a small portion of unlearners, you can run:
